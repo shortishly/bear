@@ -1,6 +1,7 @@
 {application, bear,
  [
   {description, ""},
+  {modules, []},
   {vsn, git},
   {registered, []},
   {applications, []},
